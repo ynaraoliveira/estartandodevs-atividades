@@ -7,3 +7,6 @@ Desafio: criar um site usando apenas HTML.
 
 ## Semana 02
 Desafio: criar um site usando CSS.
+
+## Semana 09
+Manipulação de arrays em JavaScript.
